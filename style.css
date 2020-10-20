@@ -1,0 +1,20 @@
+body{
+    
+    
+}
+h1{
+    padding: 20px;
+    font-style: italic;
+    align-items: center;
+}
+#a{
+    padding: 30px;
+    margin-left: auto;
+}
+#b{
+    padding: 30px;
+    margin: 10px;
+}
+div{
+    display: flex;
+}
